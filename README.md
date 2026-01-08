@@ -36,5 +36,5 @@
 <li>we need NOIP DDNS to update the WAN of our router automatically </li>
 <li>Once that done the clients cannot access internal servers by default (thats default firewall in most home routers) </li>
 <li>so you need to add a new PortForwarding Rule in your router settings and it must be mapped to port 80</li>
-<li>here is a quick youtube toturial that would make things easier to follow !</li>
+<li>here is a quick youtube <a href="https://www.youtube.com/watch?v=DuYHWBjRDuU&t=64s">toturial</a> that would make things easier to follow !</li>
 </ul>
