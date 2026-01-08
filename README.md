@@ -1,5 +1,5 @@
 <h2>Result : </h2>
-<h3>A working Static Web Server that would accept a request and serve the page and closes the connection </h3>
+<h3>A working Static Web Server that would accept a request and serve the page and close the connection </h3>
 <img src="picture.png">
 
 
